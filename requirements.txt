@@ -1,0 +1,13 @@
+customtkinter
+pydicom
+pynetdicom
+pystray
+python-docx
+cryptography
+Pillow
+psutil
+pyzipper
+ldap3
+matplotlib
+reportlab
+pyinstaller
