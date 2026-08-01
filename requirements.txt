@@ -1,0 +1,25 @@
+# --- Required ---
+pydicom
+pynetdicom
+customtkinter
+cryptography
+Pillow
+pystray
+python-docx
+
+# --- Optional (extra features; app degrades gracefully if missing) ---
+psutil
+pyzipper
+ldap3
+matplotlib
+reportlab
+python-gdcm
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+pylibjpeg-rle
+tkinterdnd2
+
+# --- Install with ---
+# Windows:  pip install -r requirements.txt
+# macOS:    pip3 install -r requirements.txt
